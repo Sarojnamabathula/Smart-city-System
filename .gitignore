@@ -1,0 +1,19 @@
+# Build folders
+bin/
+build/
+dist/
+*.exe
+*.o
+*.obj
+
+# Dependencies
+node_modules/
+
+# Local configuration
+.env
+.DS_Store
+*.swp
+
+# Benchmarks/Logs
+benchmark_results.csv
+*.log
