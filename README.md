@@ -114,4 +114,4 @@ Results are typically exported to `data/benchmark_results.csv` and visualized in
 ---
 
 ## 📜 License
-This project is for academic purposes. Implementation by [Your Team Name/Members].
+This project is for academic purposes. Implementation by Namabathula Saroj.
